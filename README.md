@@ -11,4 +11,4 @@ Its applicaiton is intended for the task of facial expression recognition as it 
   - surprise 
   - and anger. 
 
-It contains 2 to 3 iteration per actor including 11 males and 9 females for a total of 187 static captures. They are divided into 132 one for learning and 65 for testing.
+It contains 2 to 3 iterations per actor including 11 males and 9 females for a total of 187 static captures. They are divided into 132 ones for learning and 65 for testing.
